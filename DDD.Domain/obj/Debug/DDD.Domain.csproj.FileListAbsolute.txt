@@ -1,0 +1,6 @@
+C:\Users\yokot\Desktop\DDD\DDD.Domain\bin\Debug\DDD.Domain.dll
+C:\Users\yokot\Desktop\DDD\DDD.Domain\bin\Debug\DDD.Domain.pdb
+C:\Users\yokot\Desktop\DDD\DDD.Domain\obj\Debug\DDD.Domain.csprojAssemblyReference.cache
+C:\Users\yokot\Desktop\DDD\DDD.Domain\obj\Debug\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yokot\Desktop\DDD\DDD.Domain\obj\Debug\DDD.Domain.dll
+C:\Users\yokot\Desktop\DDD\DDD.Domain\obj\Debug\DDD.Domain.pdb
